@@ -5,6 +5,7 @@ alıstirma-4
 alıstirma-5
 alıstirma-6
 alistirma-7
-alıstirma-8
-alıstirma-9
+alistirma-8
+alistirma-9
+alistirma-10
 proje-1
