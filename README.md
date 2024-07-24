@@ -1,9 +1,9 @@
 alistirma-1
 alistirma-2
-alıstirma-3
-alıstirma-4
-alıstirma-5
-alıstirma-6
+alistirma-3
+alistirma-4
+alistirma-5
+alistirma-6
 alistirma-7
 alistirma-8
 alistirma-9
