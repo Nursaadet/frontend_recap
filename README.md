@@ -21,4 +21,5 @@ alistirma-20
 alistirma-21
 alistirma-22
 alistirma-23
+alistirma-24
 proje-1
