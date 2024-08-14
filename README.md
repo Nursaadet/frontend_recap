@@ -32,5 +32,6 @@ alistirma-31
 alistirma-32
 alistirma-33
 alıstirma-34
+alıstirma-35
 proje-1
 proje-2
