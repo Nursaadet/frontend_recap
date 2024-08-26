@@ -44,6 +44,7 @@ alıstirma-43
 alıstirma-44
 alıstirma-45
 alıstirma-46
+alıstirma-47
 proje-1
 proje-2
 proje-3
