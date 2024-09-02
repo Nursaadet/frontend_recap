@@ -51,6 +51,7 @@ alıstirma-50
 alıstirma-51
 alıstirma-52
 alıstirma-53
+alıstirma-54
 proje-1
 proje-2
 proje-3
