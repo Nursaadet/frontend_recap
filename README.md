@@ -69,6 +69,6 @@ alıstirma-67
 alıstirma-68
 alıstirma-69
 
-proje-1alıstirma-66
+proje-1
 proje-2
 proje-3
