@@ -75,6 +75,7 @@ alistirma-73
 alistirma-74
 alistirma-75
 alistirma-76
+alistirma-77
 
 proje-1
 proje-2
