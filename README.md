@@ -84,6 +84,7 @@ alistirma-82
 alistirma-83
 alistirma-84
 alistirma-85
+alistirma-86
 
 
 proje-1
