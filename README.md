@@ -93,6 +93,7 @@ alistirma-91
 alistirma-92
 alistirma-93
 alistirma-94 
+alistirma-95
 
 proje-1
 proje-2
