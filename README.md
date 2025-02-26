@@ -4,7 +4,7 @@ alistirma-3
 alistirma-4
 alistirma-5
 alistirma-6
-alistirma-7
+alistirma
 alistirma-8
 alistirma-9
 alistirma-10
