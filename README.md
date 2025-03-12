@@ -3,7 +3,7 @@ alistirma-2
 alistirma-3
 alistirma-4
 alistirma-5
-alistirma-6
+alistirma-
 alistirma-7
 alistirma-8
 alistirma-9
